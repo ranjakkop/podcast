@@ -403,7 +403,7 @@ function App() {
                     <CheckCircle className="h-16 w-16 text-green-500 mx-auto mb-4" />
                     <h3 className="text-2xl font-semibold mb-2">You're all set!</h3>
                     <p className="text-gray-700">
-                      Thank you for subscribing. We'll send you the best podcast summaries straight to your inbox and WhatsApp.
+                      Thank you for subscribing. We'll send you the best podcast summaries straight to your inbox and WhatsApp.Please send this Whatsapp message : "join think-tree" to this number "+14155238886"
                     </p>
                   </div>
                 )}
